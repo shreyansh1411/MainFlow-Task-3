@@ -1,0 +1,48 @@
+.button {
+  margin-top: 50px;
+  padding: 8px 20px;
+  font-size: 15px;
+}
+.nav {
+  height: 40px;
+  width: 40%;
+  background-color: bisque;
+  border-radius: 3px;
+}
+.nav li {
+  display: inline-block;
+  line-height: 40px;
+}
+.nav li a {
+  text-decoration: none;
+  color: black;
+  margin-right: 60px;
+}
+.login {
+  height: 335px;
+  width: 20%;
+  background-color: bisque;
+  border-radius: 5px;
+  margin-top: 80px;
+  text-align: center;
+}
+.login h1 {
+  color: #e038c7;
+  padding-top: 15px;
+}
+.login input {
+  border-radius: 5px;
+  padding: 6px 20px;
+  border-color: #d3d2f2;
+  margin-top: 20px;
+}
+
+.login .button1 {
+  background-color: #d874c9;
+  color: #ffffff;
+  border-color: #d874c9;
+  padding: 8px 90px;
+  border-radius: 5px;
+  margin-top: 30px;
+  font-size: 18px;
+}
